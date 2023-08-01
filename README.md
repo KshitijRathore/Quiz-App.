@@ -1,2 +1,2 @@
 # Quiz-App.
-Quiz App using Javascrip
+Quiz App using JavaScript
